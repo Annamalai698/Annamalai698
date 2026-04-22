@@ -6,7 +6,7 @@
 <h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
-passionate about building scalable web applications using Java, Spring Boot, and React.<br>
+Java Full Stack Developer passionate about building scalable web applications using Java, Spring Boot, and React.<br>
 Experienced in developing REST APIs and database-driven systems.<br>
 Currently exploring Microservices, Cloud Deployment, and DevOps tools.
 </p>
@@ -122,6 +122,14 @@ Developed a full-stack event management platform to streamline event creation, b
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Annamalai698/Annamalai698/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -134,14 +142,6 @@ Developed a full-stack event management platform to streamline event creation, b
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annamalai698&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annamalai698&layout=compact&theme=tokyonight" />
-</p>
-
----i698&theme=tokyonight" />
-
 </p>
 
 <p align="center">
@@ -170,3 +170,4 @@ Developed a full-stack event management platform to streamline event creation, b
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Annamalai698&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+

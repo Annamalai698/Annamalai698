@@ -158,14 +158,22 @@ Developed a full-stack event management platform to streamline event creation, b
 * Cloud Deployment
 
 ---
-
 ## 🤝 Contact Me
 
-🔗 LinkedIn: [https://www.linkedin.com/in/annamalai-p-26408a348](https://www.linkedin.com/in/annamalai-p-26408a348)
-💻 GitHub: [https://github.com/Annamalai698](https://github.com/Annamalai698)
-📧 Email: [annamalai13042004@gmail.com](mailto:annamalai13042004@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/annamalai-p-26408a348">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
----
+  <a href="https://github.com/Annamalai698">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:annamalai13042004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Annamalai698&label=Profile%20views&color=0e75b6&style=flat" />

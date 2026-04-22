@@ -1,66 +1,125 @@
-<!-- Typing Animation -->
-
 <h1 align="center">Hi 👋, I'm Annamalai P</h1>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Building+Scalable+Web+Applications" />
+Java Full Stack Developer 
+passionate about building scalable web applications using Java, Spring Boot, and React.<br>
+Experienced in developing REST APIs and database-driven systems.<br>
+Currently exploring Microservices, Cloud Deployment, and DevOps tools.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔗 Connect Links
 
-💡 Passionate Java Full Stack Developer
-⚡ Skilled in Spring Boot, React, REST APIs
-🚀 Building scalable web applications
-🌱 Currently learning Microservices, Cloud & DevOps
+<p align="center">
+  <a href="https://www.linkedin.com/in/annamalai-p-26408a348">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Annamalai698">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:annamalai13042004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🔗 Portfolio
+## 🚀 Technical Skills
 
-🌐 https://github.com/Annamalai698/Portfolio-
+### 💻 Programming Languages
 
----
+Java | JavaScript | Python
 
-## 🛠 Tech Stack
+### 🌐 Frontend Development
 
-### 💻 Languages
+HTML | CSS | Bootstrap | React
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+### ⚙ Backend & Frameworks
 
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-
-### ⚙ Backend
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge\&logo=springboot)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
+Spring | Spring Boot
 
 ### 🗄 Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle)
+MySQL | MongoDB
 
-### 🧪 Tools
+### 🧪 Testing & API Tools
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+Postman | JUnit
+
+### 🛠 Development Tools
+
+Maven | Git
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
+
+🎓 Certified Java Full Stack Developer – GUVI & NSDC
+🎓 HTML & CSS | Java | JavaScript | React | MySQL | Bootstrap | Git | Python – GUVI
+
+---
+
+## 🚀 Projects
+
+### 🔹 Online Quiz Application
+
+**Technologies:** Java, Spring Boot, Thymeleaf, MongoDB, JavaScript, Bootstrap, JUnit
+
+Built an Online Quiz Platform supporting Admin, Mentor, and Participant roles.
+
+**Key Features:**
+
+* Exam creation and management
+* Excel-based bulk question upload
+* Participant registration system
+* Timed quizzes with countdown
+* Automatic score calculation & result dashboard
+* Spring Security with role-based authentication
+* OTP-based email verification & password reset
+
+---
+
+### 🔹 Real Estate Platform
+
+**Technologies:** Java, Spring Boot, React, MySQL, Bootstrap, JUnit
+
+Developed a full-stack real estate property listing platform.
+
+**Key Features:**
+
+* Role-based access (Customer, Owner, Admin)
+* Property listing and management
+* Advanced search and filtering
+* Owner dashboard
+* Admin approval workflow
+* React + Backend API integration
+
+---
+
+### 🔹 Event Management System
+
+**Technologies:** Java, Spring Boot, React, MySQL, Bootstrap, JUnit
+
+Developed a full-stack event management platform to streamline event creation, booking, and administration.
+
+**Key Features:**
+
+* Role-based access (User, Organizer, Admin)
+* Event creation and management by organizers
+* Event booking and ticket registration system
+* Advanced search and filtering (by date, location, category)
+* Organizer dashboard for managing events and attendees
+* Admin panel for event approval and user management
+* Secure authentication (JWT-based)
+* Real-time updates for event availability
+* Responsive UI using React and Bootstrap
+* REST API integration
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Annamalai698&show_icons=true&theme=tokyonight" />
@@ -76,47 +135,23 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔹 [Real Estate Platform](https://github.com/Annamalai698/RealEstateApplication)
-
-* Property listing & filtering
-* Role-based dashboards
-* Admin approval system
-
----
-
-### 🔹 [Online Quiz Application](https://github.com/Annamalai698/OnlineQuizApplication)
-
-* Timed quizzes with countdown
-* OTP-based authentication
-* Automatic result dashboard
-
----
-
-### 🔹 [Event Management System](https://github.com/Annamalai698/Eventmanagement_Application)
-
-* Event booking system
-* Admin & user dashboards
-* Real-time availability tracking
-
----
-
-## 🌱 Currently Learning
+## 🌱 Current Learning
 
 * Microservices Architecture
+* Advanced Spring Boot
 * Docker & Kubernetes
 * Cloud Deployment
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Contact Me
+
+🔗 LinkedIn: [https://www.linkedin.com/in/annamalai-p-26408a348](https://www.linkedin.com/in/annamalai-p-26408a348)
+💻 GitHub: [https://github.com/Annamalai698](https://github.com/Annamalai698)
+📧 Email: [annamalai13042004@gmail.com](mailto:annamalai13042004@gmail.com)
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/annamalai-p-26408a348">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Annamalai698">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Annamalai698&label=Profile%20views&color=0e75b6&style=flat" />
 </p>

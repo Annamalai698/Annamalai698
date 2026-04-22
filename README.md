@@ -122,14 +122,6 @@ Developed a full-stack event management platform to streamline event creation, b
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Annamalai698/Annamalai698/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">

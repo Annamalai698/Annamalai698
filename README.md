@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Annamalai P</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Web+Applications" />
+</p>
 <h3 align="center">Java Full Stack Developer</h3>
 
 <p align="center">
-Java Full Stack Developer 
 passionate about building scalable web applications using Java, Spring Boot, and React.<br>
 Experienced in developing REST APIs and database-driven systems.<br>
 Currently exploring Microservices, Cloud Deployment, and DevOps tools.

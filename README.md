@@ -133,6 +133,18 @@ Developed a full-stack event management platform to streamline event creation, b
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annamalai698&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annamalai698&layout=compact&theme=tokyonight" />
+</p>
+
+---i698&theme=tokyonight" />
+
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annamalai698&layout=compact&theme=tokyonight" />
 </p>
 
